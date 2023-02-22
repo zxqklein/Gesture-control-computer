@@ -2,6 +2,7 @@
 
 流程
 1，利用argparse做一个参数初始化
+![saya](https://user-images.githubusercontent.com/105808215/220698977-3645902d-8d28-4ded-a4d9-d273c4083881.jpg)
 
 2，调用摄像头
 
